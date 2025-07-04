@@ -6,3 +6,4 @@ A hands-on analysis of Bitdefender VPN's free tier
 - IP Leak: Speedtest exposed real IP despite VPN (Kill-Switch recommended).  
 - Speed Impact: 11% slower uploads, 112ms higher ping.  
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
